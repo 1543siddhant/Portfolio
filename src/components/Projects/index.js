@@ -172,7 +172,7 @@ const Projects = ({ openModal, setOpenModal }) => {
     <Container id="projects">
       <Wrapper>
         <Title>Projects</Title>
-        <Desc>Here are some of my WEB & ML Projects which I have been working on.</Desc>
+        <Desc>Here are some of my WEB & ML Projects which I have been working</Desc>
 
         <ToggleGroup>
           <ToggleButton
