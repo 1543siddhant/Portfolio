@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Siddhant D Patil",
+  name: "Siddhant Patil",
   roles: [
     "Full Stack Developer",
     "Machine Learning Freak",
@@ -308,7 +308,7 @@ export const projects = [
 
   {
     id: 2,
-    title: "Diabetes Prediction ",
+    title: "Diabetes",
     date: "Apr 2024",
     description:
       "An application that predicts diabetes using Machine Learning algorithms.Leveraging Pandas for data exploration, scikit-learn, this application builds a KNN model to predict diabetes.",
